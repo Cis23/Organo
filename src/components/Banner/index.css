@@ -1,0 +1,12 @@
+.banner {
+  background-color: #6278F7;
+  background: url(./../../../public/imagens/banner.png) no-repeat center left;
+  background-position: 100%;
+  text-align: center;
+  height: 45rem;
+}
+.banner img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}

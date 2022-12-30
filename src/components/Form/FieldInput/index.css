@@ -1,0 +1,17 @@
+.group-form {
+  margin: 2.4rem 0;
+}
+label{
+  display: block;
+  margin-bottom: .8rem;
+  font-size: 1.8rem;
+}
+input{
+  box-sizing: border-box;
+  background: #FFF;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.295);
+  width: 100%;
+  font-size: 1.6rem;
+  border: none;
+  padding: 1rem;
+}
