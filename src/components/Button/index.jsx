@@ -1,8 +1,8 @@
-import './index.css';
+import { Btn } from './styled'
 
-const Button = (props) => {
+const Button = ({children,...props}) => {
   return (
-    <button className='button'>{props.textButton}</button>
+    <Btn className='button'>{children}</Btn>
   )
 }
-export default Button
+export default Button;

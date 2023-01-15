@@ -1,12 +1,12 @@
-import './index.css'
-const Form = ({children}) => { 
-  return <>
-    <section className="formulario">
-      <form> 
+import { Section } from "./styled";
+
+const Form = ({children,...props}) => {  
+  return (
+    <Section className="formulario"> 
+      <form onSubmit={props.handleSubmit}> 
         {children}
       </form>
-    </section>
-  </>
+    </Section>
+  )
 }
-
 export default Form;

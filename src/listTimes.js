@@ -6,22 +6,6 @@ const listTimes = [
   {description: "Devops", value: 'Devops'},
   {description: "UX e Design", value: 'UX e Design'},
   {description: "Mobile", value: 'Mobile'},
-  {description: "Inovação e Gestão", value: 'Inovação e Gestão'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
-  {description: "Mobile", value: 'Mobile'},
+  {description: "Inovação e Gestão", value: 'Inovação e Gestão'}
 ];
 export default listTimes;
